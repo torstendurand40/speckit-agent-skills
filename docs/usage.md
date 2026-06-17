@@ -7,3 +7,4 @@ Notes and usage details for speckit-agent-skills.
 - link the usage section
 - link the usage section
 - fix a small wording issue
+- fix a small wording issue
